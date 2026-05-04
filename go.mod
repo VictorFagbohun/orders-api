@@ -1,3 +1,3 @@
-module github.com/VictorFagbohun/orders-api
+module github.com/VictorFagbohun/order-api
 
 go 1.26.1
